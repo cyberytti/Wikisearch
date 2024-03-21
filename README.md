@@ -9,7 +9,7 @@ WikiSearch is a command-line tool that allows users to search and view Wikipedia
 1. Clone the repository to your local machine:
 
     ```
-    git clone https://github.com/your-username/WikiSearch.git
+    git clone https://github.com/cyberytti/Wikisearch/tree/main
     ```
 
 2. Navigate to the project directory:
