@@ -18,11 +18,6 @@ WikiSearch is a command-line tool that allows users to search and view Wikipedia
     cd WikiSearch
     ```
 
-3. Install the required dependencies:
-
-    ```
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
