@@ -2,7 +2,7 @@
 
 WikiSearch is a command-line tool that allows users to search and view Wikipedia articles directly from the terminal.
 
-![WikiSearch](images/wikisearch.png)
+![WikiSearch](https://github.com/cyberytti/Wikisearch/blob/main/IMG_20240321_135758.png)
 
 ## Installation
 
