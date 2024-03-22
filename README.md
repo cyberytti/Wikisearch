@@ -15,7 +15,7 @@ WikiSearch is a command-line tool that allows users to search and view Wikipedia
 2. Navigate to the project directory:
 
     ```
-    cd WikiSearch
+    cd Wikisearch
     ```
 
 
